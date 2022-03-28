@@ -74,7 +74,7 @@ Required Text
 
 Shafiqul Islam and Lawrence Susskind, _Water Diplomacy: A Negotiated Approach to Managing Complex Water Networks_, Resources for the Future (Routledge), 2012. ISBN: 9781617261039.
 
-Other assigned readings are listed on the [Readings]({{< baseurl >}}/pages/readings) page.
+Other assigned readings are listed on the {{% resource_link 82960cb4-abdb-c683-77d5-9728754c344f "Readings" %}} page.
 
 Assignments and Grading
 -----------------------
@@ -86,7 +86,7 @@ Assignments and Grading
 5.  Two written commentaries on cases prepared by other students in the class (5%).
 6.  Class participation in all classes (10%).
 
-The assignments listed above are described in more detail on the [Assignments]({{< baseurl >}}/pages/assignments) page.
+The assignments listed above are described in more detail on the {{% resource_link e5b98993-7502-62d1-d4ec-b7760924db51 "Assignments" %}} page.
 
 You are required to attend all scheduled class meetings unless you have requested an exception (one per semester) or have a medical emergency.
 
