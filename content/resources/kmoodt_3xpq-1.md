@@ -5,6 +5,7 @@ file: /media/courses/11-382-water-diplomacy-spring-2021/cacb830723acf3939273106c
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: cacb8307-23ac-f393-9273-106c04373d26

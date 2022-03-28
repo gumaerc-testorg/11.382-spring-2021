@@ -5,6 +5,7 @@ file: /media/courses/11-382-water-diplomacy-spring-2021/731b3b2da2325f0e9a70d185
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 731b3b2d-a232-5f0e-9a70-d18505d4f933

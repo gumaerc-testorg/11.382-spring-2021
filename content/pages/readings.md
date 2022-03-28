@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 82960cb4-abdb-c683-77d5-9728754c344f
 ---
 
-For information on the order in which the readings listed below were assigned, see the {{% resource_link 8362f5b1-ea90-385d-89b5-860742366818 "Calendar" %}} page.
+For information on the order in which the readings listed below were assigned, see the {{< resource_link 8362f5b1-ea90-385d-89b5-860742366818 "Calendar" >}} page.
 
 [1959 Agreement on the Full Utilization of the Nile River](http://www.fao.org/3/w7414b/w7414b13.htm).
 
