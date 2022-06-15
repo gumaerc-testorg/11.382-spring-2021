@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section presents the assignments students completed in 11.382 Water
+  Diplomacy.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: e5b98993-7502-62d1-d4ec-b7760924db51
 ---
@@ -63,11 +64,11 @@ Each student will write a 12–15 page (single-spaced) case study of a water con
 
 Examples of student-written case studies from spring 2021:
 
-*   Husnain Afzal, {{< resource_link 1b7baf84-4e3d-5d65-b3bb-88d603ddcb21 "\"Indus Water Treaty Between Pakistan and India of 1960: An Analysis of Its Journey over Six Decades and the Scope for Improvements\" (PDF)" >}}
-*   Anselmo Cassiano T. Alves, {{< resource_link 1aab20e5-68d6-984e-2c18-2071df124dc4 "\"Turkey-Armenia Water Cooperation\" (PDF)" >}}
-*   Gemma Holt, {{< resource_link bb3df9c5-a46f-af68-4351-efc61bda397c "\"The Past, Present and Future of the Columbia River Treaty: A Case for Modernization\" (PDF)" >}}
-*   Flora Klise, {{< resource_link 80485514-953a-1f31-6f95-36bdaa35e38a "\"Singapore-Malaysia Water Conflict\" (PDF)" >}} \[draft version, work in progress\]
-*   \[Anonymous Harvard graduate student\], {{< resource_link 635f627c-0ce1-dd46-1e41-539eea94aeb8 "\"The Confederated Salish and Kootenai Tribes–State of Montana Water Compact\" (PDF)" >}}
+*   Husnain Afzal, {{% resource_link 1b7baf84-4e3d-5d65-b3bb-88d603ddcb21 "\"Indus Water Treaty Between Pakistan and India of 1960: An Analysis of Its Journey over Six Decades and the Scope for Improvements\" (PDF)" %}}
+*   Anselmo Cassiano T. Alves, {{% resource_link 1aab20e5-68d6-984e-2c18-2071df124dc4 "\"Turkey-Armenia Water Cooperation\" (PDF)" %}}
+*   Gemma Holt, {{% resource_link bb3df9c5-a46f-af68-4351-efc61bda397c "\"The Past, Present and Future of the Columbia River Treaty: A Case for Modernization\" (PDF)" %}}
+*   Flora Klise, {{% resource_link 80485514-953a-1f31-6f95-36bdaa35e38a "\"Singapore-Malaysia Water Conflict\" (PDF)" %}} \[draft version, work in progress\]
+*   \[Anonymous Harvard graduate student\], {{% resource_link 635f627c-0ce1-dd46-1e41-539eea94aeb8 "\"The Confederated Salish and Kootenai Tribes–State of Montana Water Compact\" (PDF)" %}}
 
 Oral Presentation
 -----------------

@@ -1,13 +1,14 @@
 ---
 content_type: page
+description: This section presents a schedule of course topics and assigned readings
+  for 11.382 Water Diplomacy
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 8362f5b1-ea90-385d-89b5-860742366818
 ---
 
-For full bibliographic details on the readings listed below, see the {{< resource_link 82960cb4-abdb-c683-77d5-9728754c344f "Readings" >}} page.
+For full bibliographic details on the readings listed below, see the {{% resource_link 82960cb4-abdb-c683-77d5-9728754c344f "Readings" %}} page.
 
 Part I: Introduction and the Water Diplomacy Framework (WDF)
 ------------------------------------------------------------

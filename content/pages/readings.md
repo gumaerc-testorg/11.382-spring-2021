@@ -1,14 +1,14 @@
 ---
 content_type: page
+description: This section lists the assigned readings for 11.382 Water Diplomacy.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 82960cb4-abdb-c683-77d5-9728754c344f
 ---
 
-For information on the order in which the readings listed below were assigned, see the {{< resource_link 8362f5b1-ea90-385d-89b5-860742366818 "Calendar" >}} page.
+For information on the order in which the readings listed below were assigned, see the {{% resource_link 8362f5b1-ea90-385d-89b5-860742366818 "Calendar" %}} page.
 
 [1959 Agreement on the Full Utilization of the Nile River](http://www.fao.org/3/w7414b/w7414b13.htm).
 
@@ -28,7 +28,7 @@ Gain, Animesh K., Carlo Giupponi, and Yoshihide Wada, 2016. ["Measuring Global W
 
 Gleick, Peter H., 1993. ["Water and Conflict: Fresh Water Resources and International Security" (PDF).](https://pacinst.org/wp-content/uploads/1993/06/international_security_gleick_1993-1.pdf) _International Security_ 18(1): 79–112.
 
-Global Water Partnership (GWP) and International Network of Basin Organizations (INBO), 2009. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Handbook for Integrated Water Resources Management in Basins" (PDF).](https://www.inbo-news.org/IMG/pdf/GWP-INBOHandbookForIWRMinBasins.pdf) GWP/INBO. ISBN: 9789185321728.
+Global Water Partnership (GWP) and International Network of Basin Organizations (INBO), 2009. ["A Handbook for Integrated Water Resources Management in Basins" (PDF).](https://www.inbo-news.org/IMG/pdf/GWP-INBOHandbookForIWRMinBasins.pdf) GWP/INBO. ISBN: 9789185321728.
 
 Grey, David, and Claudia W. Sadoff, 2007. ["Sink or Swim? Water Security for Growth and Development."](https://iwaponline.com/wp/article-abstract/9/6/545/31241/Sink-or-Swim-Water-security-for-growth-and?redirectedFrom=fulltext) _Water Policy_ 9: 545–71.
 
