@@ -4,6 +4,7 @@ description: ''
 file: /courses/11-382-water-diplomacy-spring-2021/804c6df228355bebaed8690fb70f6033_w2HASHQ8nYw.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
