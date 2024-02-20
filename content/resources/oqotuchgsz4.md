@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-382-water-diplomacy-spring-2021/ee3c63cff5c20d426ce673dfb38cd2a7_oqOtuChgsz4.srt
+file_size: 74104
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

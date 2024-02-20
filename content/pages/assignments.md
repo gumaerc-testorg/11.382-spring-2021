@@ -2,13 +2,13 @@
 content_type: page
 description: This section presents the assignments students completed in 11.382 Water
   Diplomacy.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: e5b98993-7502-62d1-d4ec-b7760924db51
 ---
-
 Short Memos
 -----------
 
