@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Flora Klise's "Singapore-Malaysia Water Conflict"
-file: /courses/11-382-water-diplomacy-spring-2021/80485514953a1f316f9536bdaa35e38a_MIT11_382s21_Klise.pdf
+file: /ol-ocw-studio-app/courses/11-382-water-diplomacy-spring-2021/80485514953a1f316f9536bdaa35e38a_MIT11_382s21_Klise.pdf
 file_size: 196307
 file_type: application/pdf
 learning_resource_types:

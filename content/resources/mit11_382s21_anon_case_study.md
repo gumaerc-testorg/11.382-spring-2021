@@ -2,7 +2,7 @@
 content_type: resource
 description: "An anonymous Harvard graduate student's case study \"The Confederated\
   \ Salish and Kootenai Tribes \u2013 State of Montana Water Compact\""
-file: /courses/11-382-water-diplomacy-spring-2021/635f627c0ce1dd461e41539eea94aeb8_MIT11_382s21_anon_case_study.pdf
+file: /ol-ocw-studio-app/courses/11-382-water-diplomacy-spring-2021/635f627c0ce1dd461e41539eea94aeb8_MIT11_382s21_anon_case_study.pdf
 file_size: 548187
 file_type: application/pdf
 learning_resource_types:
