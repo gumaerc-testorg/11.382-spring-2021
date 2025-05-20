@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-382-water-diplomacy-spring-2021/2957aa6b479e6516bb25aab8d80aaa6b_oqOtuChgsz4.pdf
+file: /courses/11-382-water-diplomacy-spring-2021/2957aa6b479e6516bb25aab8d80aaa6b_oqOtuChgsz4.pdf
 file_size: 78303
 file_type: application/pdf
 learning_resource_types: []
