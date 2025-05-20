@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Anselmo Cassiano's "TURKEY ARMENIA WATER COOPERATION"
-file: /ol-ocw-studio-app/courses/11-382-water-diplomacy-spring-2021/1aab20e568d6984e2c182071df124dc4_MIT11_382s21_Cassiano.pdf
+file: /courses/11-382-water-diplomacy-spring-2021/1aab20e568d6984e2c182071df124dc4_MIT11_382s21_Cassiano.pdf
 file_size: 778562
 file_type: application/pdf
 learning_resource_types:
